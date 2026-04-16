@@ -15,3 +15,9 @@ Este projeto demonstra como integrar o Python com o Google Sheets para criar um 
 *   Envio de mensagens individuais e em massa para a planilha.
 *   Recuperação de todos os registros salvos no Google Sheets.
 *   Busca automática da última mensagem registrada.
+  
+## 📊 Extra: Cadastro de Dados via Colab
+Além do script principal, incluí o arquivo `Cadastro_Excel_Python.ipynb`. 
+*   **Objetivo:** Automatizar a entrada de dados diretamente de um ambiente Notebook.
+*   **Integração:** Conexão direta entre o Google Colab e o Google Sheets.
+
